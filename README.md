@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 -->
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=taynara2&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=taynara2&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=taynara2&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taynara2&layout=compact)](https://github.com/taynara2/github-readme-stats)
