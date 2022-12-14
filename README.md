@@ -13,22 +13,17 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=70&color=currentColor"> 
 </div>
-</br>
+
+##
 
 ### 📊 GitHub Stats:
 
-<div align="left"></br>
+<div align="center"></br>
   <a href="https://github.com/taynara2">
-  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=taynara2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </br>
-  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynara2&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taynara2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynara2&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
    </br>
-  <img height="180em" width="480em" src="https://github-readme-streak-stats.herokuapp.com/?user=taynara2&theme=tokyonight">
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=taynara2&theme=tokyonight">
   
 </div>
-
-  ##
- 
-
-  
-
