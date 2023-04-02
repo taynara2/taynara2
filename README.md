@@ -3,7 +3,13 @@
   <a href = "mailto:taynara2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/taynarafpinto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5561992172696" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
+  </br>
+  </br>
+ <p>A lover of horror movies, games and technology, I've worked in electrical maintenance for a long time. Today I find myself in career transition to the software development area.
+
+I've also started a new path in my life with ESC Partners. As it is my first job with technology. 
+
+I'm currently focusing my studies on Full Stack Development (with a greater passion for Back-End) with the following technologies: JavaScript, React, Node.js, HTML, CSS, PostegreSQL. And I won't stop improving myself. </p>
 </div>
 
 ##
